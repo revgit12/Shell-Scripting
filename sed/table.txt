@@ -1,0 +1,6 @@
+name	age	UNIT
+Revanth	25	IT
+Ranjith	25	ICT
+Rohit	29	IT
+Ranjan	34	CSE
+Rashmi	24	ICT
